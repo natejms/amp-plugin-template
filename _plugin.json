@@ -1,0 +1,7 @@
+{
+  "author": "natejms",
+  "repo": "https://github.com/natejms/amp-plugin-template",
+  "version": "1.0.0",
+  "description": "A basic Ampersand plugin template",
+  "init: "main"
+}
